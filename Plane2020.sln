@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plane2020", "Plane2020.csproj", "{1021F53C-9F57-B482-71DC-AE96891E7BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plane2020.Editor", "Plane2020.Editor.csproj", "{F1D8BA29-F1E8-01E4-97B6-2C49B509871E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1021F53C-9F57-B482-71DC-AE96891E7BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1021F53C-9F57-B482-71DC-AE96891E7BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1021F53C-9F57-B482-71DC-AE96891E7BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1021F53C-9F57-B482-71DC-AE96891E7BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D8BA29-F1E8-01E4-97B6-2C49B509871E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D8BA29-F1E8-01E4-97B6-2C49B509871E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D8BA29-F1E8-01E4-97B6-2C49B509871E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D8BA29-F1E8-01E4-97B6-2C49B509871E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

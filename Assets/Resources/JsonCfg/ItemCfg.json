@@ -1,0 +1,138 @@
+{
+  "1": {
+    "ID": "1",
+    "Name": "金币",
+    "Type": 4,
+    "IconName": "icon_coins",
+    "Price": 1,
+    "Introduce": "游戏金币"
+  },
+  "2": {
+    "ID": "2",
+    "Name": "炸弹",
+    "Type": 1,
+    "IconName": "icon_bomb",
+    "Price": 200,
+    "Introduce": "清屏炸弹"
+  },
+  "3": {
+    "ID": "3",
+    "Name": "铲子",
+    "Type": 1,
+    "IconName": "icon_shovel",
+    "Price": 100,
+    "Introduce": "发射一次激光"
+  },
+  "4": {
+    "ID": "4",
+    "Name": "铅笔",
+    "Type": 1,
+    "IconName": "icon_cryon",
+    "Price": 50,
+    "Introduce": "增加血量"
+  },
+  "5": {
+    "ID": "5",
+    "Name": "气球",
+    "Type": 1,
+    "IconName": "icon_balloon",
+    "Price": 300,
+    "Introduce": "强化弹药"
+  },
+  "6": {
+    "ID": "6",
+    "Name": "足球",
+    "Type": 1,
+    "IconName": "icon_ball",
+    "Price": 400,
+    "Introduce": "强化弹药"
+  },
+  "7": {
+    "ID": "7",
+    "Name": "杯子",
+    "Type": 2,
+    "IconName": "icon_cup",
+    "Price": 1000,
+    "Introduce": "战机强化道具"
+  },
+  "8": {
+    "ID": "8",
+    "Name": "钻石",
+    "Type": 2,
+    "IconName": "icon_diamond",
+    "Price": 3000,
+    "Introduce": "战机强化道具"
+  },
+  "9": {
+    "ID": "9",
+    "Name": "纽扣",
+    "Type": 2,
+    "IconName": "icon_button",
+    "Price": 500,
+    "Introduce": "战机强化道具"
+  },
+  "10": {
+    "ID": "10",
+    "Name": "奖杯",
+    "Type": 2,
+    "IconName": "icon_cup-15",
+    "Price": 5000,
+    "Introduce": "战机强化道具"
+  },
+  "11": {
+    "ID": "11",
+    "Name": "回形针",
+    "Type": 2,
+    "IconName": "icon_paperclip",
+    "Price": 800,
+    "Introduce": "战机强化道具"
+  },
+  "12": {
+    "ID": "12",
+    "Name": "绿色糖果",
+    "Type": 3,
+    "IconName": "icon_candy",
+    "Price": 100,
+    "Introduce": "经验增加道具"
+  },
+  "13": {
+    "ID": "13",
+    "Name": "草莓",
+    "Type": 3,
+    "IconName": "icon_strawberry",
+    "Price": 200,
+    "Introduce": "经验增加道具"
+  },
+  "14": {
+    "ID": "14",
+    "Name": "蓝色小花",
+    "Type": 3,
+    "IconName": "icon_flower",
+    "Price": 80,
+    "Introduce": "经验增加道具"
+  },
+  "15": {
+    "ID": "15",
+    "Name": "樱桃",
+    "Type": 3,
+    "IconName": "icon_cherries",
+    "Price": 300,
+    "Introduce": "经验增加道具"
+  },
+  "16": {
+    "ID": "16",
+    "Name": "青苹果",
+    "Type": 3,
+    "IconName": "icon_apple",
+    "Price": 500,
+    "Introduce": "经验增加道具"
+  },
+  "17": {
+    "ID": "17",
+    "Name": "柠檬",
+    "Type": 3,
+    "IconName": "icon_lemon",
+    "Price": 800,
+    "Introduce": "经验增加道具"
+  }
+}

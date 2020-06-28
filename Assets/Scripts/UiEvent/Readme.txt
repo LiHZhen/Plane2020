@@ -1,0 +1,1 @@
+使用此框架需要建立Resoursces/JsonCfg 文件夹和 Resources/UIPrefabs 文件夹
